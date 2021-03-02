@@ -1,4 +1,4 @@
 # flowerish
 
-static version of my latest kwork Flowerish
+static version of my latest work Flowerish
 
